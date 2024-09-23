@@ -39,4 +39,4 @@ SmokeyServices Owner & Developer
 ##### TrentonHillDev@gmail.com
 
 #### Other
-<p align="left"><a href="https://discord.gg/5kqru3pC6V" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/5kqru3pC6V" height="55" width="55" /></a></p>
+<p align="left"><a href="https://discord.gg/smokeyservices-1113192517932949565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/5kqru3pC6V" height="55" width="55" /></a></p>
