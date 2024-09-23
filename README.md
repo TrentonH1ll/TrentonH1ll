@@ -4,7 +4,6 @@ SmokeyServices Owner & Developer
 
 ### 🔎 About me
 * Cisco Certified Cybersecurity & Networking Specialist.
-* Started out writing pipe lines for Roblox Executors back when I was 14.
 * Also known as "Long.Integer" & "Smokey".
 
 ### 🌏 Languages
@@ -38,7 +37,7 @@ SmokeyServices Owner & Developer
 ### 📞 Contact me
 
 #### Email
-##### SmokeyServicesMail@gmail.com
+##### TrentonHillDev@gmail.com
 
 #### Other
 <p align="left"><a href="https://discord.gg/5kqru3pC6V" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/5kqru3pC6V" height="55" width="55" /></a></p>
