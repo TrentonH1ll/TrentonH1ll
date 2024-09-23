@@ -35,8 +35,7 @@ SmokeyServices Owner & Developer
 </div>
 
 ### 📞 Contact me
-
-#### Email
+##### +1 989-619-8484
 ##### TrentonHillDev@gmail.com
 
 #### Other
